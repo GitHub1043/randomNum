@@ -1,0 +1,10 @@
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\randomNum\randomNum\bin\Debug\randomNum.exe.config
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\randomNum\randomNum\bin\Debug\randomNum.exe
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\randomNum\randomNum\bin\Debug\randomNum.pdb
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\randomNum\randomNum\bin\Debug\randomNum.xml
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\randomNum\randomNum\obj\Debug\randomNum.Form1.resources
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\randomNum\randomNum\obj\Debug\randomNum.Resources.resources
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\randomNum\randomNum\obj\Debug\randomNum.vbproj.GenerateResource.Cache
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\randomNum\randomNum\obj\Debug\randomNum.exe
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\randomNum\randomNum\obj\Debug\randomNum.xml
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\decisionsAyden\randomNum\randomNum\obj\Debug\randomNum.pdb
